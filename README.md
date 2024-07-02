@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Dominion-Udeme-Joshua a Biomedical Engineering student and a Data Analyst
-- 👀 I’m interested in using my data analytics tools to improve halthcare services and systems by providing actionable insights to inform decision making
-- 🌱 I’m currently learning tableau and brushing up on my python skills having learned SQL
-- 💞️ I’m looking to collaborate on projects and opportunities that explore data in healthcare research and services as well as education 
-- 📫 How to reach me . I'm reachable on Gmail @deetechnopedia@gmail.com and linkendin https://linkedin.com/in/dominion-joshua-5b359b237
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 👋 Hi, I’m Dominion Joshua
+- A Biomedical Engineering student and a Data Analyst
+- Interested in using my data analytics skills to improve halthcare and educational systems by providing actionable insights to inform decision making
+- 🌱 I’m a certified Datacamp [Data Analyst Associate](https://www.datacamp.com/certificate/DAA0017640452721) <br/>
+- Currently working on projects and opportunities that explore data in healthcare research and services as well as education 
+- I'm reachable via Gmail @deetechnopedia@gmail.com and linkendin https://linkedin.com/in/dominion-joshua-5b359b237
+
   
 
 <!---
